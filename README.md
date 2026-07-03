@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/kartikhullannavar25-hub/blog-preview.git
-- Live Site URL: https://kartikhullannavar25-hub.github.io/blog-preview/
+- Solution URL: https://github.com/kartik-kumar25/blog-preview.git
+- Live Site URL: https://kartik-kumar25.github.io/blog-preview/
 
 ## My process
 
@@ -48,8 +48,8 @@ This project helped in to recap my learning for card type content to center vert
 
 ## Author
 
-- Frontend Mentor - [@kartikhullannavar25-hub](https://www.frontendmentor.io/profile/kartikhullannavar25-hub)
-- GitHub - [@kartikhullannavar25-hub](https://github.com/kartikhullannavar25-hub)
+- Frontend Mentor - [@kartik-kumar25](https://www.frontendmentor.io/profile/kartik-kumar25)
+- GitHub - [@kartik-kumar25](https://github.com/kartik-kumar25)
 
 
 ## Acknowledgments
